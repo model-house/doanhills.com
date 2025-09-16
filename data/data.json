@@ -177,7 +177,7 @@
   },
   "premium": {
     "title": "프리미엄",
-    "description": "도안 힐스테이트만의 특별한 가치",
+    "description": "도안 힐스테이트만의 특별한 프리미엄",
     "additionalInfo": "",
     "visible": true,
     "layoutType": "cards",
@@ -537,6 +537,6 @@
       "assets/images/layout/3danji.jpg",
       "assets/images/layout/5danji.jpg"
     ],
-    "visible": false
+    "visible": true
   }
 }

@@ -1,0 +1,542 @@
+{
+  "site": {
+    "title": "도안 힐스테이트 민간임대",
+    "description": "대전 도안 신도시의 중심에 현대건설 힐스테이트가 만듭니다",
+    "contact": {
+      "phone": "1833-9123",
+      "hours": "오전 10시 - 오후6시",
+      "address": "대전 광역시 서구 도안동 1557",
+      "kakao": "https://naver.com/",
+      "kakaoEnabled": false,
+      "visitDateRange": {
+        "startDate": "2025-09-17",
+        "endDate": "2025-12-31"
+      }
+    },
+    "footer": {
+      "manager": "업체명 : 유니컴퍼니 | 사업자등록번호 : 877-15-02004 | 고객센터 : 1833-9123",
+      "description": "대전 도안 신도시의 중심에 현대건설 힐스테이트가 만듭니다",
+      "developer": "유토개발2차",
+      "constructor": "현대건설",
+      "trustee": "하나자산신탁",
+      "additionalNote": "※ 홈페이지의 모든 이미지(CG포함) 내용은 소비자의 이해를 돕기 위한 것으로 실제와 차이가 있을 수 있습니다.",
+      "disclaimers": [
+        "상기 내용은 인·허가 과정이나 실제 시공 시 현장 여건 등에 따라 일부 변경될 수 있으므로 견본주택에 방문하시어 직접 확인하시기 바랍니다.",
+        "사용된 이미지 혹은 CG는 소비자의 이해를 돕기 위한 것으로 실제와 차이가 날 수 있습니다."
+      ]
+    },
+    "domain": "https://doanhills.com"
+  },
+  "hero": {
+    "title": "도안 힐스테이트 민간임대",
+    "subtitle": "대전 도안신도시 최대규모 아파트의 완성",
+    "badge": "GRAND OPEN",
+    "slideImages": [
+      "assets/images/hero/gaeyo4.JPG",
+      "assets/images/hero/gaeyo2.JPG",
+      "assets/images/hero/jogamdo2.jpg"
+    ],
+    "backgroundImage": "assets/images/hero/gaeyo4.JPG"
+  },
+  "overview": {
+    "items": [
+      {
+        "label": "위치(1단지)",
+        "value": "대전광역시 유성구 복용동 45-3 일원"
+      },
+      {
+        "label": "위치(2단지)",
+        "value": "대전광역시 유성구 학하동 86 일원"
+      },
+      {
+        "label": "위치(3단지)",
+        "value": "대전광역시 유성구 학하동 195 일원"
+      },
+      {
+        "label": "위치(5단지)",
+        "value": "대전광역시 유성구 복용동 61-1 일원"
+      },
+      {
+        "label": "임대수",
+        "value": "총 914세대"
+      },
+      {
+        "label": "타입",
+        "value": "59A/B㎡, 84A/B/C/D㎡"
+      },
+      {
+        "label": "입주예정",
+        "value": "2027년 08월 ~ 12월(블럭별 상이)"
+      }
+    ],
+    "images": [
+      "assets/images/gaeyo/main3.jpg",
+      "assets/images/gaeyo/main4.jpg"
+    ]
+  },
+  "design": {
+    "title": "브랜드",
+    "visible": true,
+    "cards": [
+      {
+        "title": "브랜드평판지수 1위",
+        "points": [
+          {
+            "label": "2019~2025년 연속",
+            "description": ""
+          },
+          {
+            "label": "브랜드평판지수 1위",
+            "description": "<한국기업평판연구소>"
+          }
+        ],
+        "image": "assets/images/sogae/1.jpg",
+        "description": ""
+      },
+      {
+        "title": "프리미엄 브랜드 지수 1위",
+        "description": "",
+        "image": "assets/images/sogae/2.jpg",
+        "points": [
+          {
+            "label": "2023-2025 프리미엄 브랜드지수",
+            "description": ""
+          },
+          {
+            "label": "3년 연속 공동주택 부문 1위",
+            "description": ""
+          },
+          {
+            "label": "스마트홈 서비스 부문 1위",
+            "description": "<한국표준협회>"
+          }
+        ]
+      },
+      {
+        "title": "대한민국 브랜드스타 1위",
+        "points": [
+          {
+            "label": "2022-2025 4년 연속",
+            "description": ""
+          },
+          {
+            "label": "대한민국 브랜드스타",
+            "description": ""
+          },
+          {
+            "label": "공동주택부문 1위",
+            "description": "<브랜드스탁>"
+          }
+        ],
+        "image": "assets/images/sogae/3.jpg"
+      }
+    ]
+  },
+  "location": {
+    "title": "입지 환경",
+    "description": "도안신도시의 중심, 프리미엄 입지",
+    "image": "assets/images/ipzi/ipzi.jpg",
+    "highlights": [
+      {
+        "icon": "🚇",
+        "title": "교통환경",
+        "description": "반경 1km 트램2호선(예정)"
+      },
+      {
+        "icon": "🏫",
+        "title": "교육환경",
+        "description": "단지 내 초.중교 설립(예정)"
+      },
+      {
+        "icon": "🛍️",
+        "title": "생활환경",
+        "description": "반경 1km 상업지구풍부"
+      },
+      {
+        "icon": "🌳",
+        "title": "자연환경",
+        "description": "짐잠천. 화산천. 수변공원"
+      }
+    ]
+  },
+  "floorPlans": {
+    "title": "평면도",
+    "description": "합리적인 공간 설계",
+    "plans": [
+      {
+        "type": "84A",
+        "area": "84.㎡",
+        "units": "1",
+        "description": "COMMING SOON",
+        "features": [],
+        "image": "assets/images/pungsu/comming.jpg",
+        "areaDetails": [],
+        "additionalImages": []
+      }
+    ]
+  },
+  "premium": {
+    "title": "프리미엄",
+    "description": "도안 힐스테이트만의 특별한 가치",
+    "additionalInfo": "",
+    "visible": true,
+    "layoutType": "cards",
+    "features": [
+      {
+        "icon": "🏢",
+        "title": "PREMIUM1",
+        "description": "대전의 중심 브랜드대단지",
+        "details": [
+          "대전 최대 규모 5,329세대",
+          "도안신도시 중심에 위치"
+        ]
+      },
+      {
+        "icon": "🚗",
+        "title": "PREMIUM2",
+        "description": "광역교통망 연결",
+        "details": [
+          "1km 내 대전2호선트램(예정)",
+          "유성 IC / 현충원IC(추진중)",
+          "동서대로 / 도안대로"
+        ]
+      },
+      {
+        "icon": "🏫",
+        "title": "PREMIUM3",
+        "description": "브랜드 대단지 학품아",
+        "details": [
+          "도안신도시 신설학교 확정",
+          "학하2초 / 학하중 (가칭)",
+          "안전한 도보권 안심학군"
+        ]
+      },
+      {
+        "icon": "🏗️",
+        "title": "PREMIUM4",
+        "description": "도안 힐스테이트만의 ECO",
+        "details": [
+          "단지 인근 약 16만m² 체육공원",
+          "진잠천 / 화산천 수변공원조성"
+        ]
+      },
+      {
+        "icon": "📐",
+        "title": "PREMIUM5",
+        "description": "도안의 품격을 상승시키는 커뮤니티",
+        "details": [
+          "단지내 실내 수영장 / 사우나",
+          "차별화된 힐스테이트 커뮤니티"
+        ]
+      },
+      {
+        "icon": "🏆",
+        "title": "PREMIUM6",
+        "description": "브랜드 가치 현대건설",
+        "details": [
+          "단지내 실내 수영장 / 사우나",
+          "차별화된 힐스테이트 커뮤니티"
+        ]
+      }
+    ],
+    "images": []
+  },
+  "options": {
+    "title": "기본 제공 품목 안내",
+    "description": "김포 오퍼스 한강 스위첸의 프리미엄 기본 제공 품목",
+    "visible": false,
+    "categories": [
+      {
+        "title": "시스템",
+        "items": [
+          {
+            "title": "공동현관",
+            "description": "안면인식 시스템"
+          },
+          {
+            "title": "현관 간접조명",
+            "description": "(84B, 84C, 99B)"
+          },
+          {
+            "title": "거실 및 각 침실",
+            "description": "에어컨 냉매배관"
+          },
+          {
+            "title": "현관/복도/거실/주방",
+            "description": "스크래치리스 도배지"
+          }
+        ]
+      },
+      {
+        "title": "주방/가전",
+        "items": [
+          {
+            "title": "거실 매입등 조도 및",
+            "description": "디밍 조절"
+          },
+          {
+            "title": "엔지니어드스톤",
+            "description": "주방상판"
+          },
+          {
+            "title": "와이드",
+            "description": "사각 싱크볼"
+          },
+          {
+            "title": "전기",
+            "description": "오븐"
+          }
+        ]
+      },
+      {
+        "title": "욕실/발코니",
+        "items": [
+          {
+            "title": "다용도실 및 발코니",
+            "description": "걸레받이 도장"
+          },
+          {
+            "title": "전동 빨래",
+            "description": "건조대"
+          },
+          {
+            "title": "실외기 AL",
+            "description": "자동루버"
+          },
+          {
+            "title": "욕실 샤워",
+            "description": "안전손잡이"
+          }
+        ]
+      },
+      {
+        "title": "시스템/보안",
+        "items": [
+          {
+            "title": "주방 센서형",
+            "description": "절수 수전"
+          },
+          {
+            "title": "고급형",
+            "description": "전열교환기"
+          },
+          {
+            "title": "비데일체형",
+            "description": "욕실"
+          }
+        ]
+      }
+    ]
+  },
+  "convenience": {
+    "title": "스마트 시스템",
+    "description": "라이프스타일과 스마트함을 모두 갖춘 시스템",
+    "subtitle": "앞선 기술과 함께 일상속에 편하고 안전한 주거공간의 생활을 누리다",
+    "visible": true,
+    "facilities": [
+      {
+        "category": "에너지 절감 시스템",
+        "items": [
+          {
+            "name": "HEMS",
+            "description": "세대 에너지 관리 시스템"
+          },
+          {
+            "name": "차단",
+            "description": "대기전력 시스템"
+          },
+          {
+            "name": "주차장",
+            "description": "LED조명"
+          },
+          {
+            "name": "세대",
+            "description": "LED조명"
+          }
+        ]
+      },
+      {
+        "category": "안전 시스템",
+        "items": [
+          {
+            "name": "무인",
+            "description": "경비 시스템"
+          },
+          {
+            "name": "인식",
+            "description": "주차관제 시스템"
+          },
+          {
+            "name": "현관",
+            "description": "안심 카메라"
+          },
+          {
+            "name": "CCTV",
+            "description": "200만 화소"
+          },
+          {
+            "name": "도어락",
+            "description": "Push pull 디지털"
+          }
+        ]
+      },
+      {
+        "category": "편의 시스템",
+        "items": [
+          {
+            "name": "월패드",
+            "description": "10인치 홈네트워크"
+          },
+          {
+            "name": "스위치",
+            "description": "소등지연 일괄소등"
+          },
+          {
+            "name": "전기차",
+            "description": "충전설비"
+          },
+          {
+            "name": "탈수기",
+            "description": "음식물쓰레기"
+          },
+          {
+            "name": "드레스룸",
+            "description": "난방 및 배기"
+          }
+        ]
+      }
+    ]
+  },
+  "community": {
+    "title": "커뮤니티 시설",
+    "description": "일상에 특별함을 만드는 다양한 커뮤니티",
+    "visible": true,
+    "showOverview": true,
+    "showFloorplan": true,
+    "overviewImage": "assets/images/community/commuty.jpg",
+    "floorPlanImage": "assets/images/community/commuty1.jpg",
+    "facilities": [
+      {
+        "name": "H아이숲",
+        "description": "건강하게 뛰어놀 수 있는 친환경 놀이공간",
+        "mainImage": "assets/images/community/1.jpg",
+        "image": "assets/images/community/1.jpg"
+      },
+      {
+        "name": "H위드펫",
+        "description": "반려동물 전용 친화시설",
+        "mainImage": "assets/images/community/2.jpg",
+        "image": "assets/images/community/2.jpg"
+      }
+    ]
+  },
+  "qna": {
+    "title": "자주 묻는 질문",
+    "description": "궁금하신 점을 확인해보세요",
+    "visible": true,
+    "items": [
+      {
+        "question": "도안 힐스테이트는 위치가 어디죠?",
+        "answer": "대전광역시 도안신도시내 최중심에 위치하며, 가장 큰 규모로 조성되는 단지로, 도심의 생활 인프라 및 학군을 모두 갖췄습니다.\n또한 대전 2호선트램(예정)하고는 단지내 1KM이내에 위치해있습니다. 자세한 위치는 입지환경을 클릭해서 확인하시면 도움이 됩니다"
+      },
+      {
+        "question": "민간임대는 뭐죠?",
+        "answer": "10년간 합리적인 임대 조건으로 이사 걱정 없이 거주할 수 있는 상품입니다.\n청약통장 미사용, 세금 부담 없음(과세 대상 아님), 전매제한 없음, 부동산 실거래 신고의무 없음, 다주택자도 상관없습니다."
+      },
+      {
+        "question": "평형 구성은 어떻게 되나요?",
+        "answer": "도안 힐스테이트 리버파크는 전용 59㎡ 는 A/B으로 구성, 전용 84㎡는 A/B/C/D 타입 총 6개 타입으로 구성됩니다."
+      },
+      {
+        "question": "임대가는 얼마인가요?",
+        "answer": "타입별 그리고 단지별 임대가격은 상이합니다.\n추가로 동/호수에 따라서 임대가격이 차이가 발생 되기 때문에 자세한 임대가격 및 조건안내는 대표번호 1833-9123 으로 문의주시면 고객님들께 상세한 안내를 도와드리겠습니다."
+      },
+      {
+        "question": "모델하우스 위치 및 운영시간은요?",
+        "answer": "도안 힐스테이트 모델하우스\n위치 : 대전 광역시 서구 도안동 1557\n운영시간 : 오전10시 ~ 오후6시\n평일/공휴일/주말 모두 운영됩니다\n방문예약 : 홈페이지 예약 시스템"
+      }
+    ]
+  },
+  "news": {
+    "title": "언론보도",
+    "description": "도안 힐스테이트 관련 뉴스를 확인하세요",
+    "visible": true,
+    "items": [
+      {
+        "title": "힐스테이트 도안리버파크 임대정보 - 현대건설 민간임대/청약 안내",
+        "source": "서울경제",
+        "date": "2025-09-12",
+        "articleTitle": "현대건설 ‘힐스테이트 도안리버파크’ 민간임대 임차인 모집",
+        "link": "https://www.sedaily.com/NewsView/2GXVGP7B1H",
+        "image": "",
+        "content": "에 따르면, 현대건설이 대전 유성구 도안권 핵심 입지에 대규모 단지 '힐스테이트 도안리버파크'를 선보이며 민간임대 임차인 모집을 시작했습니다.\n총 914세대를 민간임대로 공급하며, 실수요자들의 초기 자금 부담을 줄일 전망입니다.\n\n● 위치/규모 : 대전광역시 유성구 도안2-2지구, 5개단지 51개동 최고35층, 5,329세대\n● 임대물량 : 일반분양 제외, 전용 59~84m² 914세대(1,2,3,5단지) 공급\n● 특징 : 실수요자 맞춤형 평형,브랜드 단지,대규모 커뮤니티,지역 랜드마크 기대\n\n모집공고 외 임대가 정보는 **청약홈** 에서 확인하실 수 있습니다.\n상담 및 모델하우스 관람을 희망하시면 홈페이지 방문 예약 또는 대표번호 1833-9123 으로 연락주시면 친절히 안내 드리겠습니다.",
+        "ctaLink": "https://www.applyhome.co.kr/ai/aia/selectOtherLttotPblancListView.do#a",
+        "createdAt": "2025-09-16T02:47:05.869Z"
+      },
+      {
+        "title": "도안 힐스테이트, 민간임대 트렌드와 맞물려 주거 안정성 강화",
+        "source": "매일경제",
+        "articleTitle": "월세 부담 속 민간임대아파트 ‘대안 주거’로 부상",
+        "date": "2025-08-13",
+        "link": "https://www.hankyuhttps://www.mk.co.kr/news/realestate/11392776#noneng.com/realestate/article/202506131234",
+        "image": "",
+        "content": "에 따르면, 최근 월세 상승과 전세난으로 민간임대아파트가 실수요자들에게 안정적 주거 대안으로 떠오르고 있습니다. 임대 후 매입이 가능한 구조, 낮은 진입장벽, 세제 혜택 등으로 초기 부담을 줄이고 장기 거주 안전성을 높이는 것이 특징입니다.\n\n● 분양가 부담 완화 : 민간임대를 선택하면 초기 자금 부담이 줄어듭니다\n● 청약 경쟁력 강화 : 임대/분양 동시 수요층 확보가능\n● 지역 가치 상승 : 도안신도시 인프라/교통/생활 투자 및 거주 강화",
+        "ctaLink": "https://www.applyhome.co.kr/ai/aia/selectOtherLttotPblancListView.do#a",
+        "createdAt": "2025-09-16T02:46:12.542Z"
+      }
+    ]
+  },
+  "contact": {
+    "title": "상담 문의",
+    "subtitle": "위의 내용 중 궁금한 점이 있으신가요?",
+    "address": "경기도 김포시 장기동 모델하우스",
+    "phone": "1811-0013",
+    "hours": "오전 10시 - 오후 6시",
+    "kakao": ""
+  },
+  "footer": {
+    "projectInfo": {
+      "projectName": "",
+      "manager": "",
+      "description": "",
+      "address": ""
+    },
+    "companies": {
+      "developer": "",
+      "constructor": "",
+      "trustee": ""
+    },
+    "contacts": {
+      "phone": "",
+      "kakao": ""
+    },
+    "additionalNote": "",
+    "disclaimers": []
+  },
+  "seo": {
+    "title": "도안 힐스테이트 | 임대아파트 분양정보",
+    "description": "도안 힐스테이트 홈페이지 | 타입별 평면도 | 분양가 | 모델하우스 방문 | 위치안내 | 10년 민간임대주택을 확인",
+    "keywords": "대전 아파트, 대전 도안신도시, 힐스테이트 모델하우스, 도안 임대가격, 도안 임대아파트, 도안 힐스테이트 민간임대",
+    "ogImage": "assets/images/hero/hero.jpg"
+  },
+  "layout": {
+    "title": "단지 배치도",
+    "description": "자연과 함께하는 프리미엄 단지 설계",
+    "features": [
+      {
+        "title": "남향 위주 배치",
+        "description": "전 세대 남향 위주로 채광과 조망이 뛰어난 설계"
+      },
+      {
+        "title": "넓은 동간 거리",
+        "description": "쾌적한 주거환경을 위한 여유로운 동간 거리 확보"
+      }
+    ],
+    "images": [
+      "assets/images/layout/12danji.jpg",
+      "assets/images/layout/3danji.jpg",
+      "assets/images/layout/5danji.jpg"
+    ],
+    "visible": false
+  }
+}

@@ -164,159 +164,13 @@
     "description": "합리적인 공간 설계",
     "plans": [
       {
-        "type": "59A",
-        "area": "59.9974m²",
-        "units": "62세대",
-        "description": "4Bay 남동/남서 위주",
-        "features": [
-          "4Bay 남동/남서 배치",
-          "알찬 공간 구성"
-        ],
-        "image": "assets/images/pungsu/59a.jpg",
-        "areaDetails": [
-          {
-            "label": "전용면적",
-            "value": "59.9974m²"
-          },
-          {
-            "label": "공급면적(3단지기준)",
-            "value": "81.7602m²"
-          },
-          {
-            "label": "계약면적(3단지기준)",
-            "value": "128.4168m²"
-          }
-        ],
-        "additionalImages": []
-      },
-      {
-        "type": "59B",
-        "area": "59.9739m²",
-        "units": "137세대",
-        "description": "타워형 남향 위주",
-        "features": [
-          "타워형 남향 배치",
-          "알찬 공간 구성"
-        ],
-        "image": "assets/images/pungsu/59b.jpg",
-        "areaDetails": [
-          {
-            "label": "전용면적",
-            "value": "59.9739m²"
-          },
-          {
-            "label": "공급면적(3단지기준)",
-            "value": "81.2284m²"
-          },
-          {
-            "label": "계약면적(3단지기준)",
-            "value": "127.8668m²"
-          }
-        ],
-        "additionalImages": []
-      },
-      {
         "type": "84A",
-        "area": "84.9923m²",
-        "units": "360세대",
-        "description": "4Bay 남동/남서 위주",
-        "features": [
-          "4Bay 남동/남서 배치",
-          "가족을 위한 공간 구성"
-        ],
-        "image": "assets/images/pungsu/84a.jpg",
-        "areaDetails": [
-          {
-            "label": "전용면적",
-            "value": "84.9923m²"
-          },
-          {
-            "label": "공급면적(3단지기준)",
-            "value": "113.5735m²"
-          },
-          {
-            "label": "계약면적(3단지기준)",
-            "value": "179.6673m²"
-          }
-        ],
-        "additionalImages": []
-      },
-      {
-        "type": "84B",
-        "area": "84.9606m²",
-        "units": "142세대",
-        "description": "4Bay 남동/남서 위주",
-        "features": [
-          "4Bay 남동/남서 배치",
-          "가족을 위한 공간 구성"
-        ],
-        "image": "assets/images/pungsu/84b.jpg",
-        "areaDetails": [
-          {
-            "label": "전용면적",
-            "value": "84.9606m²"
-          },
-          {
-            "label": "공급면적(3단지기준)",
-            "value": "114.1029m²"
-          },
-          {
-            "label": "계약면적(3단지기준)",
-            "value": "180.1721m²"
-          }
-        ],
-        "additionalImages": []
-      },
-      {
-        "type": "84C",
-        "area": "84.9539m²",
-        "units": "61세대",
-        "description": "타워형 남동/남서 위주",
-        "features": [
-          "타워형 남향 배치",
-          "가족을 위한 공간 구성"
-        ],
-        "image": "assets/images/pungsu/84c.jpg",
-        "areaDetails": [
-          {
-            "label": "전용면적",
-            "value": "84.9539m²"
-          },
-          {
-            "label": "공급면적(3단지기준)",
-            "value": "113.8807m²"
-          },
-          {
-            "label": "계약면적(3단지기준)",
-            "value": "179.9446m²"
-          }
-        ],
-        "additionalImages": []
-      },
-      {
-        "type": "84D",
-        "area": "84.9861m²",
-        "units": "152세대",
-        "description": "4Bay 남동/남서 위주",
-        "features": [
-          "4Bay 남동/남서 배치",
-          "가족을 위한 공간 구성"
-        ],
-        "image": "assets/images/pungsu/84d.jpg",
-        "areaDetails": [
-          {
-            "label": "전용면적",
-            "value": "84.9861m²"
-          },
-          {
-            "label": "공급면적(3단지기준)",
-            "value": "114.2327m²"
-          },
-          {
-            "label": "계약면적(3단지기준)",
-            "value": "180.3216m²"
-          }
-        ],
+        "area": "84.㎡",
+        "units": "1",
+        "description": "COMMING SOON",
+        "features": [],
+        "image": "assets/images/pungsu/comming.jpg",
+        "areaDetails": [],
         "additionalImages": []
       }
     ]
@@ -565,14 +419,12 @@
       {
         "name": "H아이숲",
         "description": "건강하게 뛰어놀 수 있는 친환경 놀이공간",
-        "mainImage": "assets/images/community/1.jpg",
-        "image": "assets/images/community/1.jpg"
+        "mainImage": "assets/images/community/1.jpg"
       },
       {
         "name": "H위드펫",
         "description": "반려동물 전용 친화시설",
-        "mainImage": "assets/images/community/2.jpg",
-        "image": "assets/images/community/2.jpg"
+        "mainImage": "assets/images/community/2.jpg"
       }
     ]
   },
